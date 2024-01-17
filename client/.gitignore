@@ -1,0 +1,25 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.out
+
+# Ignore temporary files and directories
+*.log
+.DS_Store
+tmp/
+
+# Ignore dependencies and generated files
+node_modules/
+dist/
+build/
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore backup files
+*~
