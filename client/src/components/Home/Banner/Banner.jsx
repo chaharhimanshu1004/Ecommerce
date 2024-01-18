@@ -10,9 +10,7 @@ const Banner = () => {
                 <div className="text-content">
                     <h1>SALES</h1>
                     <p>
-                        Convallis interdum purus adipiscing dis parturient
-                        posuere ac a quam a eleifend montes parturient posuere
-                        curae tempor
+                    Discover a world of endless possibilities at our ecommerce store. From trending fashion to cutting-edge electronics, find quality products that cater to your lifestyle. Shop now for unbeatable deals!
                     </p>
                     <div className="ctas">
                         <div className="banner-cta">Read More</div>

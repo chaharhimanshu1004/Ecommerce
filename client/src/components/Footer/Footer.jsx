@@ -9,10 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et
-                        quasi architecto beatae vitae dicta sunt explicabo eaque
-                        ipsa quae ab illo.
+                    Embark on a seamless shopping experience at our ecommerce store. From fashion to electronics, we offer a curated selection. Stay in the loop with our updates and enjoy exclusive offers. Your satisfaction is our commitment. Shop confidently, explore endlessly, and make every purchase a delightful experience with us.
                     </div>
                 </div>
                 <div className="col">
@@ -20,17 +17,16 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                        456, Mock Lane, Fictitious Nagar, New Delhi - 110011, India.
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
-                        <div className="text">Phone: 0471 272 0261</div>
+                        <div className="text">Phone: 9100 9381 0193</div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
-                        <div className="text">Email: store@jsdev.com</div>
+                        <div className="text">Email: chaharhardev152@gmail.com</div>
                     </div>
                 </div>
                 <div className="col">
